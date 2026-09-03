@@ -4,7 +4,7 @@
   "name": "Vivaldi",
   "description": "Browse the web with a customizable browser.",
   "version": "8.2.4133.45",
-  "image": "ghcr.io/containerpak/vivaldi@sha256:aa18765b4f87981d2b7f688aa8af6d2bd72294ccd52f993a50322855d6734d0f",
+  "image": "ghcr.io/containerpak/vivaldi@sha256:258c9115541f1f265f0d2719982917dab54f7f2dd1573fa0811ee1b0d3dfc792",
   "runtime_sources": [
     {
       "name": "vivaldi-stable_8.2.4133.45-1_amd64.deb",
