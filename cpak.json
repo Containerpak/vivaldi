@@ -3,14 +3,14 @@
   "manifest_version": "3.0",
   "name": "Vivaldi",
   "description": "Browse the web with a customizable browser.",
-  "version": "8.2.4133.47",
+  "version": "8.2.4133.52",
   "image": "ghcr.io/containerpak/vivaldi@sha256:a353ebd9f2a28f7a35e61a63b3c1cf31ffed5435583b871aca5e317f76dfd5ef",
   "runtime_sources": [
     {
-      "name": "vivaldi-stable_8.2.4133.47-1_amd64.deb",
-      "url": "https://repo.vivaldi.com/stable/deb/pool/main/vivaldi-stable_8.2.4133.47-1_amd64.deb",
-      "sha256": "4adec2f17c40d4f21e805d490d4a0f1d5f50fd406e7a62b37117cb42a58a5f6e",
-      "size": 138250380,
+      "name": "vivaldi-stable_8.2.4133.52-1_amd64.deb",
+      "url": "https://repo.vivaldi.com/stable/deb/pool/main/vivaldi-stable_8.2.4133.52-1_amd64.deb",
+      "sha256": "40e5e935050b4abedd47df28d8038304731bbf0ff7361a97961d6207a8bcad03",
+      "size": 138254872,
       "installer": "deb-extract",
       "architecture": "amd64"
     }
